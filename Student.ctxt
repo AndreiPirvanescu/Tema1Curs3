@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=
+comment1.target=Student()
+comment10.params=
+comment10.target=double\ produsDiv3()
+comment2.params=nume\ grupa\ facultate\ anDeStudiu
+comment2.target=Student(java.lang.String,\ int,\ java.lang.String,\ int)
+comment3.params=nume\ serie\ note
+comment3.target=Student(java.lang.String,\ char,\ double[])
+comment4.params=
+comment4.target=void\ sePrezinta()
+comment5.params=
+comment5.target=boolean\ esteIntegralist()
+comment6.params=
+comment6.target=double\ getMedie()
+comment7.params=
+comment7.target=double\ getMin()
+comment8.params=
+comment8.target=double\ getMax()
+comment9.params=
+comment9.target=double\ sumaPare()
+numComments=11

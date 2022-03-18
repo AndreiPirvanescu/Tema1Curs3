@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Holiday
+comment1.params=nume\ ziua\ luna
+comment1.target=Holiday(java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=Holiday()
+comment3.params=sarbatoare
+comment3.target=boolean\ inSameDay(Holiday)
+numComments=4
